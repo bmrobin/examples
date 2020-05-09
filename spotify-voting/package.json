@@ -1,0 +1,13 @@
+{
+    "name": "spotify-voting",
+    "dependencies": {
+        "express": "^4.16.4",
+        "request": "^2.88.0",
+        "cors": "^2.8.5",
+        "querystring": "^0.2.0",
+        "cookie-parser": "^1.4.4"
+    },
+    "scripts": {
+        "auth": "node authentication.js"
+    }
+}
